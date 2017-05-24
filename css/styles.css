@@ -1,0 +1,35 @@
+.intro{
+  text-align: justify;
+  color: white;
+  background-color: #651470;
+  padding: 10%;
+  font-weight: 500;
+}
+
+.title{
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Dancing Script', cursive;
+  font-style: normal;
+}
+
+img{
+  border-radius: 20%;
+  margin-left: 0px;
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: 0px;
+}
+
+#text{
+  width: 50%;
+  float: right;
+  padding-top: 0px;
+  font-family: font-family: 'Dancing Script', cursive;
+
+}
+
+#me{
+  width:150px;
+}
